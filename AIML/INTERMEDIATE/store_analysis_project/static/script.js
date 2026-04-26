@@ -1,4 +1,4 @@
-Papa.parse("Sample - Superstore.csv", {
+Papa.parse("Sample%20-%20Superstore.csv", {
     download: true,
     header: true,
     skipEmptyLines: true,
